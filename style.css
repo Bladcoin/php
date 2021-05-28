@@ -1,0 +1,10 @@
+.form-signin {
+	width:20%;
+	margin:250px auto;
+}
+.main__errors {
+	padding:5px 10px;
+}
+.main__errors p {
+	margin-top:10px 0 0 0;
+}
